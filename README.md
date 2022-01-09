@@ -20,10 +20,10 @@ Initialise the database
 
 (env)ubuntu@ubuntu:~/RequestCatcher$ python main.py\
 \
-Alternatively you can\
+Alternatively you can
 ## Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/WanderingCoder-Omen/RequestCatcher)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/WanderingCoder-Omen/RequestCatcher) <- By clicking this button
 
 ## Usage
 
