@@ -17,8 +17,9 @@ Initialise the database
 			       >>> exit()
 ```
 ## Execution 
-
-(env)ubuntu@ubuntu:~/RequestCatcher$ python main.py\
+```
+(env)ubuntu@ubuntu:~/RequestCatcher$ python main.py
+```
 \
 Alternatively you can
 ## Deploy to Heroku
