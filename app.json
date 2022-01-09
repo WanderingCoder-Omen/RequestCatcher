@@ -1,0 +1,7 @@
+{
+  "name": "Flask REST api Request Catcher",
+  "description": "A Flask Restful app to catch incoming GET, PUT, POST, DELETE requests and save to a SQLite db",
+  "repository": "https://github.com/WanderingCoder-Omen/RequestCatcher",
+  "logo": "http://www.unixstickers.com/image/cache/data/stickers/flask/Flask-logo.sh-600x600.png",
+  "keywords": ["Flask", "Python", "Rest API"]
+}
